@@ -17,8 +17,10 @@ CSE @ NIT Rourkela (Aug 2025 - Present)
 ### Selected for:
 1. GSSoC'26 (AI Agents Track)
 2. Mckinsey Forward Learn'26
-3. Summer internship @ IIT Ropar
+
+### Clubs @ NIT Rourkela
+1. WebWiz
+2. OpenCode
 
 ### Profiles
 * [LinkedIn](https://www.linkedin.com/in/parijat-mandal/)
-* 
