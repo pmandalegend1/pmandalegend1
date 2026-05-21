@@ -1,14 +1,13 @@
 # Parijat Mandal
 
-CSE @ NIT Rourkela (Aug 2025 - Present)
+CSE @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/) (Aug 2025 - Present)
 
 ### Experience
 
 * **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)**
   * Summer Research Intern (May 2026 – Present)
 
-* **[CSPIT, CHARUSAT](https://cse.cspit.charusat.ac.in/)**
-* Advisor:- Dr. Nirav Bhatt
+* **[CSPIT, CHARUSAT](https://cse.cspit.charusat.ac.in/)** Advisor:- Dr. Nirav Bhatt
   * Machine Learning Research Intern (Dec 2025 – Jan 2026)
   * AI-ML Apprentice (May 2025 – July 2025)
 
