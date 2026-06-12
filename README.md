@@ -1,27 +1,52 @@
 # Parijat Mandal
 
-CSE @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/) (Aug 2025 - Present)
+CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/)
+
+ML, LLM, DL Research | AI for Good | Signal Processing
+
+---
 
 ### Experience
 
-* **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)**
-  * Summer Research Intern (May 2026 – Present)
+* **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** — *Advisor: Dr. Saha*
+  * Summer Research Intern (May 2026 – Present) 
+  * Working with Piezoresistive sensors
+  * Project Link: `[REDACTED]`
 
-* **[CSPIT, CHARUSAT](https://cse.cspit.charusat.ac.in/)** Advisor:- Dr. Nirav Bhatt
-  * Machine Learning Research Intern (Dec 2025 – Jan 2026)
-  * AI-ML Apprentice (May 2025 – July 2025)
+* **[IIIT Allahabad](https://www.iiita.ac.in/)**
+  * Summer Intern (June 2026 – Present)
+  * Working on Medical Image translation
+  * Project Link: `[REDACTED]`
+
+* **[CHARUSAT](https://cse.cspit.charusat.ac.in/)** — *Advisor: Dr. Nirav Bhatt, HoD AIML @ CSPIT, CHARUSAT*
+  * **Machine Learning Research Intern** (Dec 2025 – Mar 2026) `[4 months, Hybrid]`
+    * Fundamental research including rotation-aware approaches for flight delay modeling
+    * Project Link: `[REDACTED]`
+   
+  * **AI-ML Apprentice** (May 2025 – July 2025) `[2 months, On-Site]`
+    * Built AI foundations and developed a [Dataset Analyzer](https://github.com/pmandalegend1/Dataset_Analyzer_using-NumPy_Pandas_and_Matplotlib)
 
 * **[CRY: Child Rights and You](https://www.cry.org/)**
   * Operations Intern (Dec 2025)
 
-### Selected for:
-1. GSSoC'26 (AI Agents Track)
-2. Mckinsey Forward Learn'26
+---
 
 ### Clubs @ NIT Rourkela
-1. WebWiz
-2. OpenCode
 
-### Contact
-* [LinkedIn](https://www.linkedin.com/in/parijat-mandal/)
-* Email : parijatmandal3631@gmail.com
+1. **WebWiz** - Projects: [WebWiz Tasks](https://github.com/pmandalegend1/WebWiz-tasks)
+2. **OpenCode** — Repositories currently being unified
+
+---
+
+### Selected for:
+
+1. **McKinsey Forward Learn'26**
+2. **GSSoC'26** (AI Agents Track)
+
+---
+
+### Feel free to reach out to me at:
+
+* **LinkedIn:** [in/parijat-mandal](https://www.linkedin.com/in/parijat-mandal/)
+* **Email:** parijatmandal3631@gmail.com
+* **GitHub:** [pmandalegend1](https://github.com/pmandalegend1)
