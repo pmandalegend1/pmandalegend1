@@ -23,7 +23,7 @@ ML, LLM, DL Research | AI for Good | Signal Processing
   * Working on Medical Image translation
   * Project Link: `[REDACTED]`
 
-* **[CHARUSAT](https://cse.cspit.charusat.ac.in/)** - *Advisor: Dr. Nirav Bhatt, HoD AIML @ CSPIT, CHARUSAT*
+* **[CHARUSAT](https://cse.cspit.charusat.ac.in/)** - *Advisor: Dr. Nirav Bhatt, HoD AIML, CSPIT
   * **Machine Learning Research Intern** (Dec 2025 – Mar 2026) `[4 months, Hybrid]`
     * Fundamental research including rotation-aware approaches for flight delay modeling
     * Project Link: `[REDACTED]`
