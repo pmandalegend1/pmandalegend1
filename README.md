@@ -19,7 +19,7 @@ ML, LLM, DL Research | AI for Good | Signal Processing
   * Project Link: `[REDACTED]`
 
 * **[IIIT Allahabad](https://www.iiita.ac.in/)** - *Advisor: Dr. SRD, CVBL*
-  * Summer Intern (June 2026 – Present)
+  * Summer Intern (June 2026)
   * Working on Medical Image translation
   * Project Link: `[REDACTED]`
 
@@ -40,7 +40,7 @@ ML, LLM, DL Research | AI for Good | Signal Processing
 
 ### Selected for:
 
-1. **McKinsey Forward Learn'26**
+1. **McKinsey Forward Learn'26** (Completed)
 2. **GSSoC'26** (AI Agents Track)
 
 <br>
@@ -48,11 +48,11 @@ ML, LLM, DL Research | AI for Good | Signal Processing
 ### Clubs @ NIT Rourkela
 
 1. **WebWiz** - Projects: [WebWiz Tasks](https://github.com/pmandalegend1/WebWiz-tasks)
-2. **OpenCode** — Repositories currently being unified
+2. **OpenCode** - Projects: [OpenCode Tasks] (https://github.com/pmandalegend1/OPENCODE-tasks)
 
 <br>
 
-### Connect
+Feel free to reach out to me using:
 
 * **LinkedIn:** [in/parijat-mandal](https://www.linkedin.com/in/parijat-mandal/)
 * **Email:** parijatmandal3631@gmail.com
