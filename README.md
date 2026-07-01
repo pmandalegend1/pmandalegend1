@@ -48,7 +48,7 @@ ML, LLM, DL Research | AI for Good | Signal Processing
 ### Clubs @ NIT Rourkela
 
 1. **WebWiz** - Projects: [WebWiz Tasks](https://github.com/pmandalegend1/WebWiz-tasks)
-2. **OpenCode** - Projects: [OpenCode Tasks] (https://github.com/pmandalegend1/OPENCODE-tasks)
+2. **OpenCode** - Projects: [OpenCode Tasks](https://github.com/pmandalegend1/OPENCODE-tasks)
 
 <br>
 
