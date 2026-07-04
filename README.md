@@ -1,6 +1,7 @@
 # Parijat Mandal
 
 CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/)
+
 US Citizen
 
 ML, LLM, DL Research | AI for Good | Signal Processing
