@@ -18,11 +18,6 @@ ML, LLM, DL Research | AI for Good | Signal Processing
   * Working with Piezoresistive sensors
   * Project Link: `[REDACTED]`
 
-* **[IIIT Allahabad](https://www.iiita.ac.in/)** - *Advisor: Dr. SRD, CVBL*
-  * Summer Intern (June 2026)
-  * Working on Medical Image translation
-  * Project Link: `[REDACTED]`
-
 * **[CHARUSAT](https://cse.cspit.charusat.ac.in/)** - *Advisor: Dr. NB, HoD AIML, CSPIT*
   * **Machine Learning Research Intern** (Dec 2025 – Mar 2026) `[4 months, Hybrid]`
     * Fundamental research including rotation-aware approaches for flight delay modeling
