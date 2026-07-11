@@ -20,7 +20,7 @@ My Portfolio site: https://pmandalegend1.github.io/
 
 **[IIT Patna](https://www.iitp.ac.in/~sriparna/)** 
 
-`July 2026 – Present` · Research Intern |
+`July 2026 – Present` · Research Intern
 - AI in sports
  
 **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** 
@@ -33,10 +33,11 @@ My Portfolio site: https://pmandalegend1.github.io/
 `Dec 2025 – Mar 2026` · ML Research Intern | 4 months, Hybrid
 - Rotation-aware approaches for flight delay modeling
 
-`May 2025 – Jul 2025` · AI-ML Apprentice · 2 months, On-Site
+`May 2025 – Jul 2025` · AI-ML Apprentice | 2 months, On-Site
 - Built AI foundations and a [Dataset Analyzer](https://github.com/pmandalegend1/Dataset_Analyzer_using-NumPy_Pandas_and_Matplotlib)
 
 **[CRY: Child Rights and You](https://www.cry.org/)**
+
 `Dec 2025` · Operations Intern | 1 month, Remote
 
 </td>
