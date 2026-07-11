@@ -1,59 +1,60 @@
+<div align="center">
+
 # Parijat Mandal
 
-CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/)
+CS Sophomore at [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Citizen
 
-US Citizen
+`ML` `LLM` `Deep Learning` `Signal Processing` `AI for Good`
 
-ML, LLM, DL Research | AI for Good | Signal Processing
+</div>
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<!-- LEFT COLUMN: EXPERIENCE -->
-<td width="55%" valign="top" style="border: none; padding-right: 20px;">
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ### Experience
 
-* **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** - *Advisor: Dr. BS, SML*
-  * Summer Research Intern (May 2026 – Present) 
-  * Working with Piezoresistive sensors
-  * Project Link: `[REDACTED]`
+**[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)**
+`May 2026 – Present` · Summer Research Intern · Advisor: Dr. BS, SML
+- Working with piezoresistive sensors
 
-* **[CHARUSAT](https://cse.cspit.charusat.ac.in/)** - *Advisor: Dr. NB, HoD AIML, CSPIT*
-  * **Machine Learning Research Intern** (Dec 2025 – Mar 2026) `[4 months, Hybrid]`
-    * Fundamental research including rotation-aware approaches for flight delay modeling
-    * Project Link: `[REDACTED]`
-  * **AI-ML Apprentice** (May 2025 – July 2025) `[2 months, On-Site]`
-    * Built AI foundations and developed a [Dataset Analyzer](https://github.com/pmandalegend1/Dataset_Analyzer_using-NumPy_Pandas_and_Matplotlib)
+**[CHARUSAT](https://cse.cspit.charusat.ac.in/)** · Advisor: Dr. NB, HoD AIML, CSPIT
 
-* **[CRY: Child Rights and You](https://www.cry.org/)**
-  * Operations Intern (Dec 2025)
+`Dec 2025 – Mar 2026` · ML Research Intern · 4 months, Hybrid
+- Rotation-aware approaches for flight delay modeling
+
+`May 2025 – Jul 2025` · AI-ML Apprentice · 2 months, On-Site
+- Built AI foundations and a [Dataset Analyzer](https://github.com/pmandalegend1/Dataset_Analyzer_using-NumPy_Pandas_and_Matplotlib)
+
+**[CRY: Child Rights and You](https://www.cry.org/)**
+`Dec 2025` · Operations Intern
 
 </td>
+<td width="45%" valign="top">
 
-<!-- RIGHT COLUMN: CLUBS, SELECTIONS, CONTACT -->
-<td width="45%" valign="top" style="border: none; padding-left: 20px;">
+### Selected For
 
-### Selected for:
-
-1. **McKinsey Forward Learn'26** (Completed)
-2. **GSSoC'26** (AI Agents Track)
-
-<br>
-
-### Clubs @ NIT Rourkela
-
-1. **WebWiz** - Projects: [WebWiz Tasks](https://github.com/pmandalegend1/WebWiz-tasks)
-2. **OpenCode** - Projects: [OpenCode Tasks](https://github.com/pmandalegend1/OPENCODE-tasks)
+| | Program | Status |
+|--|---------|--------|
+| 1 | McKinsey Forward Learn '26 | Completed |
+| 2 | GSSoC '26, AI Agents Track | Active |
 
 <br>
 
-Feel free to reach out to me using:
+### Clubs at NIT Rourkela
 
-* **LinkedIn:** [in/parijat-mandal](https://www.linkedin.com/in/parijat-mandal/)
-* **Email:** parijatmandal3631@gmail.com
-* **GitHub:** [pmandalegend1](https://github.com/pmandalegend1)
+| Club | Tasks Link |
+|------|--|
+| WebWiz | [Tasks](https://github.com/pmandalegend1/WebWiz-tasks) |
+| OpenCode | [Tasks](https://github.com/pmandalegend1/OPENCODE-tasks) |
+
+<br>
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/parijat-mandal/) &nbsp;·&nbsp; [GitHub](https://github.com/pmandalegend1) &nbsp;·&nbsp; parijatmandal3631@gmail.com
 
 </td>
 </tr>
