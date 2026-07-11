@@ -19,6 +19,7 @@ My Portfolio site: https://pmandalegend1.github.io/
 ### Experience
  
 **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** · Advisor: Dr. BS, SML
+
 `May 2026 – Present` · Summer Research Intern | 3 months, Hybrid
 - Working with piezoresistive sensors
 
@@ -31,7 +32,7 @@ My Portfolio site: https://pmandalegend1.github.io/
 - Built AI foundations and a [Dataset Analyzer](https://github.com/pmandalegend1/Dataset_Analyzer_using-NumPy_Pandas_and_Matplotlib)
 
 **[CRY: Child Rights and You](https://www.cry.org/)**
-`Dec 2025` · Operations Intern
+`Dec 2025` · Operations Intern | 1 month, Remote
 
 </td>
 <td width="45%" valign="top">
@@ -56,8 +57,8 @@ My Portfolio site: https://pmandalegend1.github.io/
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/parijat-mandal/) &nbsp;·&nbsp; 
-| [GitHub](https://github.com/pmandalegend1) &nbsp;·&nbsp; | 
+[LinkedIn](https://www.linkedin.com/in/parijat-mandal/) 
+| [GitHub](https://github.com/pmandalegend1) | 
 parijatmandal3631@gmail.com
 
 </td>
