@@ -6,7 +6,7 @@ CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Cit
 
 My Portfolio site: https://pmandalegend1.github.io/
 
-`ML` | `LLM` | `Deep Learning` | `Signal Processing` | `AI for Good`
+`ML` | `LLM` | `Deep Learning` | `Computer Vision`  
 
 </div>
 
@@ -17,13 +17,18 @@ My Portfolio site: https://pmandalegend1.github.io/
 <td width="55%" valign="top">
 
 ### Experience
+
+**[IIT Patna](https://www.iitp.ac.in/~sriparna/)** 
+
+`July 2026 – Present` · Research Intern |
+- AI in sports
  
-**[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** · Advisor: Dr. BS, SML
+**[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** 
 
 `May 2026 – Present` · Summer Research Intern | 3 months, Hybrid
 - Working with piezoresistive sensors
 
-**[CHARUSAT](https://cse.cspit.charusat.ac.in/)** · Advisor: Dr. NB, HoD AIML, CSPIT
+**[CHARUSAT](https://cse.cspit.charusat.ac.in/)**
 
 `Dec 2025 – Mar 2026` · ML Research Intern | 4 months, Hybrid
 - Rotation-aware approaches for flight delay modeling
