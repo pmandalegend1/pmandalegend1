@@ -2,9 +2,11 @@
 
 # Parijat Mandal
 
-CS Sophomore at [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Citizen
+CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Citizen
 
-`ML` `LLM` `Deep Learning` `Signal Processing` `AI for Good`
+My Portfolio site: https://pmandalegend1.github.io/
+
+`ML` | `LLM` | `Deep Learning` | `Signal Processing` | `AI for Good`
 
 </div>
 
@@ -15,14 +17,14 @@ CS Sophomore at [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Ci
 <td width="55%" valign="top">
 
 ### Experience
-
-**[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)**
-`May 2026 – Present` · Summer Research Intern · Advisor: Dr. BS, SML
+ 
+**[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** · Advisor: Dr. BS, SML
+`May 2026 – Present` · Summer Research Intern | 3 months, Hybrid
 - Working with piezoresistive sensors
 
 **[CHARUSAT](https://cse.cspit.charusat.ac.in/)** · Advisor: Dr. NB, HoD AIML, CSPIT
 
-`Dec 2025 – Mar 2026` · ML Research Intern · 4 months, Hybrid
+`Dec 2025 – Mar 2026` · ML Research Intern | 4 months, Hybrid
 - Rotation-aware approaches for flight delay modeling
 
 `May 2025 – Jul 2025` · AI-ML Apprentice · 2 months, On-Site
@@ -43,7 +45,7 @@ CS Sophomore at [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Ci
 
 <br>
 
-### Clubs at NIT Rourkela
+### Clubs @ NIT Rourkela
 
 | Club | Tasks Link |
 |------|--|
@@ -54,7 +56,9 @@ CS Sophomore at [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Ci
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/parijat-mandal/) &nbsp;·&nbsp; [GitHub](https://github.com/pmandalegend1) &nbsp;·&nbsp; parijatmandal3631@gmail.com
+[LinkedIn](https://www.linkedin.com/in/parijat-mandal/) &nbsp;·&nbsp; 
+| [GitHub](https://github.com/pmandalegend1) &nbsp;·&nbsp; | 
+parijatmandal3631@gmail.com
 
 </td>
 </tr>
