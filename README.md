@@ -2,7 +2,7 @@
 
 # Parijat Mandal
 
-CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/) &nbsp;|&nbsp; US Citizen
+CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/)
 
 My Portfolio site: https://pmandalegend1.github.io/
 
@@ -20,25 +20,25 @@ My Portfolio site: https://pmandalegend1.github.io/
 
 **[IIT Patna](https://www.iitp.ac.in/~sriparna/)** 
 
-`July 2026 – Present` · Research Intern
+`July 2026 – Present` | Research Intern | Hybrid
 - AI in sports
  
 **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** 
 
-`May 2026 – Present` · Summer Research Intern | 3 months, Hybrid
+`May 2026 – Present` | Summer Research Intern | 3 months, Hybrid
 - Working with piezoresistive sensors
 
 **[CHARUSAT](https://cse.cspit.charusat.ac.in/)**
 
-`Dec 2025 – Mar 2026` · ML Research Intern | 4 months, Hybrid
+`Dec 2025 – Mar 2026` | ML Research Intern | 4 months, Hybrid
 - Rotation-aware approaches for flight delay modeling
 
-`May 2025 – Jul 2025` · AI-ML Apprentice | 2 months, On-Site
+`May 2025 – Jul 2025` | AI-ML Apprentice | 2 months, On-Site
 - Built AI foundations and a [Dataset Analyzer](https://github.com/pmandalegend1/Dataset_Analyzer_using-NumPy_Pandas_and_Matplotlib)
 
 **[CRY: Child Rights and You](https://www.cry.org/)**
 
-`Dec 2025` · Operations Intern | 1 month, Remote
+`Dec 2025` | Operations Intern | 1 month, Remote
 
 </td>
 <td width="45%" valign="top">
@@ -55,7 +55,7 @@ My Portfolio site: https://pmandalegend1.github.io/
 ### Clubs @ NIT Rourkela
 
 | Club | Tasks Link |
-|------|--|
+|------|----|
 | WebWiz | [Tasks](https://github.com/pmandalegend1/WebWiz-tasks) |
 | OpenCode | [Tasks](https://github.com/pmandalegend1/OPENCODE-tasks) |
 
@@ -64,7 +64,9 @@ My Portfolio site: https://pmandalegend1.github.io/
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/parijat-mandal/) 
-| [GitHub](https://github.com/pmandalegend1) | 
+
+[GitHub](https://github.com/pmandalegend1)
+
 parijatmandal3631@gmail.com
 
 </td>
