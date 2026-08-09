@@ -21,7 +21,7 @@ My Portfolio site: https://pmandalegend1.github.io/
 **[IIT Patna](https://www.iitp.ac.in/~sriparna/)** 
 
 `July 2026 – Present` | Research Intern | Remote
-- AI in sports
+- AI in sports (CV)
  
 **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** 
 
