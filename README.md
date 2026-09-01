@@ -25,7 +25,7 @@ My Portfolio site: https://pmandalegend1.github.io/
  
 **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** 
 
-`May 2026 – Present` | Summer Research Intern | 3 months, Hybrid
+`May 2026 – Aug 2026` | Summer Research Intern | 3 months, Hybrid
 - Working with piezoresistive sensors
 
 **[CHARUSAT](https://cse.cspit.charusat.ac.in/)**
