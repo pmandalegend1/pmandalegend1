@@ -48,7 +48,7 @@ My Portfolio site: https://pmandalegend1.github.io/
 | | Program | Status |
 |--|---------|--------|
 | 1 | McKinsey Forward Learn '26 | Completed |
-| 2 | GSSoC '26, AI Agents Track | Active |
+| 2 | GSSoC '26, AI Agents Track | Completed |
 
 <br>
 
@@ -56,7 +56,7 @@ My Portfolio site: https://pmandalegend1.github.io/
 
 | Club | Tasks Link |
 |------|----|
-| WebWiz | [Tasks](https://github.com/pmandalegend1/WebWiz-tasks) |
+| Webwiz | [Tasks](https://github.com/pmandalegend1/WebWiz-tasks) |
 | OpenCode | [Tasks](https://github.com/pmandalegend1/OPENCODE-tasks) |
 
 <br>
