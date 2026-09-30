@@ -18,7 +18,9 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 
 ### Experience
 
-- Undergraduate Researcher at **[NIT Rourkela](https://www.nitrkl.ac.in/)** driving interdisciplinary research through ML & DL.
+- **[NIT Rourkela](https://www.nitrkl.ac.in/)**
+  `March 2026 – Present` | Undergraduate Researcher | On-Site
+- Driving interdisciplinary research through ML & DL.
 
 **[IIT Patna](https://www.iitp.ac.in/~sriparna/)** 
 
@@ -28,7 +30,7 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)** 
 
 `May 2026 – Aug 2026` | Summer Research Intern | 3 months, Hybrid
-- Working with piezoresistive sensors
+- Worked with processing and breakdown of piezoresistive sensor data
 
 **[CHARUSAT](https://cse.cspit.charusat.ac.in/)**
 
