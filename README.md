@@ -4,9 +4,9 @@
 
 CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/)
 
-My Portfolio site: https://pmandalegend1.github.io/
+Take a look at my Portfolio site @ https://pmandalegend1.github.io/
 
-`ML`/`DL` | `LLM` | `CV`  
+Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`   
 
 </div>
 
@@ -17,6 +17,8 @@ My Portfolio site: https://pmandalegend1.github.io/
 <td width="55%" valign="top">
 
 ### Experience
+
+- Undergraduate Researcher at **[NIT Rourkela](https://www.nitrkl.ac.in/)** driving interdisciplinary research through ML & DL.
 
 **[IIT Patna](https://www.iitp.ac.in/~sriparna/)** 
 
