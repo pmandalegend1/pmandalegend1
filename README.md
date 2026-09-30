@@ -18,8 +18,8 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 
 ### Experience
 
-- **[NIT Rourkela](https://www.nitrkl.ac.in/)**
-  `March 2026 – Present` | Undergraduate Researcher | On-Site
+**[NIT Rourkela](https://www.nitrkl.ac.in/)**
+`March 2026 – Present` | Undergraduate Researcher | On-Site
 - Driving interdisciplinary research through ML & DL.
 
 **[IIT Patna](https://www.iitp.ac.in/~sriparna/)** 
