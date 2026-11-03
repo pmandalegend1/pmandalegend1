@@ -18,6 +18,11 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 
 ### Experience
 
+**[IIT Kanpur](https://www.iitk.ac.in/)**
+
+`Incoming (December 2026)` | Remote
+- Developing AI/ML based methods for RF circuit design
+
 **[NIT Rourkela](https://www.nitrkl.ac.in/)**
 
 `Mar 2026 – Present` | Undergraduate Researcher | On-Site
