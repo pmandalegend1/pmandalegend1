@@ -56,8 +56,13 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 
 ### Publications
 
-- **Modeling Delay Propagation Without Meteorological Data via a Rotation-Aware Approach**, IEEE TEMSCON-ASPAC 2026 ([code](https://github.com/pmandalegend1/Flight_delay_prediction_without_over-relying_on_meteorological_data))
-- **Dissecting Attention-Driven Discriminability in Deep Convolutional Networks for Fluorescence Microscopy-Based Nuclear Injury Profiling in Ethanol-Stressed Colonic Epithelium**, IEEE ICUIS 2026
+1. **Modeling Delay Propagation Without Meteorological Data via a Rotation-Aware Approach** ([code](https://github.com/pmandalegend1/Flight_delay_prediction_without_over-relying_on_meteorological_data))
+
+Venue : `IEEE TEMSCON-ASPAC 2026, Rajkot, India`
+
+2. **Dissecting Attention-Driven Discriminability in Deep Convolutional Networks for Fluorescence Microscopy-Based Nuclear Injury Profiling in Ethanol-Stressed Colonic Epithelium**,
+
+Venue : `IEEE ICUIS 2026, Coimbatore, India`
 
 <br>
 
@@ -83,10 +88,7 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 
 ---
 
-<div align="center">
+Feel free to reach out anytime via:
 
-### Contact
+[LinkedIn](https://www.linkedin.com/in/parijat-mandal/)  |  [GitHub](https://github.com/pmandalegend1)  |  [parijatmandal3631@gmail.com](mailto:parijatmandal3631@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/parijat-mandal/) · [GitHub](https://github.com/pmandalegend1) · [Resume](https://pmandalegend1.github.io/open.html) · [parijatmandal3631@gmail.com](mailto:parijatmandal3631@gmail.com)
-
-</div>
