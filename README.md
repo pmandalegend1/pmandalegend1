@@ -18,20 +18,15 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 
 ### Experience
 
-**[IIT Kanpur](https://www.iitk.ac.in/)**
+**[IIT Patna](https://www.iitp.ac.in/~sriparna/)**
 
-`Incoming (December 2026)` | Remote
-- Developing AI/ML based methods for RF circuit design
+`Jul 2026 – Present` | Research Intern | Remote
+- World Models for Tactical Football planning 
 
 **[NIT Rourkela](https://www.nitrkl.ac.in/)**
 
 `Mar 2026 – Present` | Undergraduate Researcher | On-Site
 - Driving interdisciplinary research through ML & DL.
-
-**[IIT Patna](https://www.iitp.ac.in/~sriparna/)**
-
-`Jul 2026 – Present` | Research Intern | Remote
-- World Models for Tactical Football Planning
 
 **[IIT Gandhinagar](https://smartmaterialslab.wixsite.com/smartmaterials)**
 
@@ -54,7 +49,7 @@ Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
 </td>
 <td width="45%" valign="top">
 
-### Publications
+### Publications (2)
 
 1. **Modeling Delay Propagation Without Meteorological Data via a Rotation-Aware Approach** ([code](https://github.com/pmandalegend1/Flight_delay_prediction_without_over-relying_on_meteorological_data))
 
