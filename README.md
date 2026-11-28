@@ -6,7 +6,7 @@ CS Sophomore @ [NIT Rourkela](https://www.nitrkl.ac.in/CS/)
 
 Take a look at my Portfolio site @ https://pmandalegend1.github.io/
 
-Interdisciplinary research in `AI` / `ML`/`DL` / `LLM`
+Interdisciplinary research in `AI`/ `ML`/ `LLMs`/`DL`
 
 </div>
 
@@ -59,6 +59,7 @@ Venue : `IEEE TEMSCON-ASPAC 2026, Rajkot, India`
 
 Venue : `IEEE ICUIS 2026, Coimbatore, India`
 
+**[Paper link](https://ieeexplore.ieee.org/abstract/document/11791048casa_token=le2AkancBekAAAAA:RThXz4b_wrno7s8X0q0LymjAOA_6FmAJnv72rHigI7eaczCqUqq68zU0xenXZKNrLqWc5WvfqWQW)
 <br>
 
 ### Selected For
@@ -74,8 +75,8 @@ Venue : `IEEE ICUIS 2026, Coimbatore, India`
 
 | Club | Tasks Link |
 |------|----|
-| Webwiz | [Tasks](https://github.com/pmandalegend1/WebWiz-tasks) |
-| OpenCode | [Tasks](https://github.com/pmandalegend1/OPENCODE-tasks) |
+| **Webwiz** (AI/ML team member) | [Tasks](https://github.com/pmandalegend1/WebWiz-tasks) |
+| **OpenCode** (AI/ML team member) | [Tasks](https://github.com/pmandalegend1/OPENCODE-tasks) |
 
 </td>
 </tr>
